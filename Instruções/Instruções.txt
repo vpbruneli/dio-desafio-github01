@@ -1,0 +1,8 @@
+# Instruções para o GitHub
+
+Crie uma conta no site GitHub;
+Preencha as informações necessárias;
+Clique em criar novo repositório;
+Siga os passos apreendidos durante as aulas;
+
+Em caso de dúvidas acesse: https://web.dio.me/
